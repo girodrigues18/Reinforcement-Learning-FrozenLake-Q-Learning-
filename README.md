@@ -2,8 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Gymnasium](https://img.shields.io/badge/Gymnasium-0.29%2B-orange)](https://gymnasium.farama.org/)
-[![Reinforcement Learning](https://img.shields.io/badge/Reinforcement-Learning-green)](https://)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Reinforcement Learning](https://img.shields.io/badge/Reinforcement-Learning-green)](https://www.ibm.com/think/topics/reinforcement-learning)
 
 Uma implementação do algoritmo Q-Learning para resolver o ambiente FrozenLake-v1 do Gymnasium, onde um agente deve aprender a atravessar um lago congelado evitando buracos.
 
